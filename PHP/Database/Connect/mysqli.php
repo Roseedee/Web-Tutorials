@@ -12,4 +12,6 @@
 
     echo "Connect Successfully";
 
+
+    $conn->close();
 ?>

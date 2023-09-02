@@ -5,7 +5,6 @@ check node version<br>
 ``$ npm -v``<br>
 generator<br>
 ``$ npx express-generator``<br>
-![](https://github.com/Roseedee/Web-Tutorials/blob/main/NodeJS/Express%20Framework/Example/express-application-generator-img1.png)
 ![](https://github.com/Roseedee/Web-Tutorials/blob/main/NodeJS/Express%20Framework/Example/express-application-generator-img2.png)
 
 2. Install packages.<br>
@@ -15,7 +14,7 @@ generator<br>
 
 3. Run.<br>
 ``$ npm start``<br>
-![](https://github.com/Roseedee/Web-Tutorials/blob/main/NodeJS/Express%20Framework/Example/express-application-generator-img2.png)
+![](https://github.com/Roseedee/Web-Tutorials/blob/main/NodeJS/Express%20Framework/Example/express-application-generator-img5.png)
 
 
 
